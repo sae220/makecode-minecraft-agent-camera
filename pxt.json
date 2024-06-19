@@ -7,7 +7,8 @@
     },
     "files": [
         "agentCamera.ts",
-        "_locales/ja/makecode-minecraft-agent-camera-strings.json"
+        "_locales/ja/makecode-minecraft-agent-camera-strings.json",
+        "_locales/ja/makecode-minecraft-agent-camera-jsdoc-strings.json"
     ],
     "preferredEditor": "tsprj",
     "supportedTargets": [
