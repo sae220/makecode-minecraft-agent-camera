@@ -1,0 +1,16 @@
+{
+    "name": "makecode-minecraft-agent-camera",
+    "description": "",
+    "version": "0.0.1",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "agentCamera.ts",
+        "_locales/ja/makecode-minecraft-agent-camera-strings.json"
+    ],
+    "preferredEditor": "tsprj",
+    "supportedTargets": [
+        "minecraft"
+    ]
+}

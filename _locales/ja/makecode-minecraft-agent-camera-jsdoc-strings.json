@@ -1,0 +1,6 @@
+{
+    "posAgentCamera": "新しくエージェントからのカメラ座標を作成する。右、上、前",
+    "posAgentCamera|param|x": "左（-x）または右（+x）方向の座標（ブロック単位）",
+    "posAgentCamera|param|y": "上（+y）または下（-y）方向の座標（ブロック単位）",
+    "posAgentCamera|param|z": "後ろ（-z）または前（-z）方向の座標（ブロック単位）"
+}
